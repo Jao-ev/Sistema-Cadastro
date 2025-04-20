@@ -17,5 +17,5 @@ Este é um sistema básico de cadastro de usuários feito em Python, executado d
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-cadastro.git
+   git clone https://github.com/Jao-ev/Organizador.git
    cd sistema-cadastro
